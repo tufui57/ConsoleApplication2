@@ -18,8 +18,5 @@
     <ClCompile Include="4_5Array3b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4_5Array3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

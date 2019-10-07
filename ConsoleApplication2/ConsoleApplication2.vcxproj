@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4_5Array3.cpp" />
     <ClCompile Include="4_5Array3b.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
