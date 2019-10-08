@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4_5Array3.cpp" />
-    <ClCompile Include="4_5Array3b.cpp" />
+    <ClCompile Include="4_6Address.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
